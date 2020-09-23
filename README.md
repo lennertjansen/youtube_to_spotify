@@ -1,2 +1,2 @@
-# youtube_to_spotify
+# Youtube to Spotify converter
 Automated Youtube to Spotify playlist converter
